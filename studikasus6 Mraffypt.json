@@ -1,0 +1,20 @@
+[
+    {
+        "nim": "2609116091",
+        "nama": "Muhammad Raffy",
+        "mata_kuliah": "Algoritma dan Pemrograman",
+        "nilai": "85"
+    },
+    {
+        "nim": "2609116093",
+        "nama": "Andi",
+        "mata_kuliah": "Basis Data",
+        "nilai": "90"
+    },
+    {
+        "nim": "2609116095",
+        "nama": "Budi",
+        "mata_kuliah": "Pemrograman Python",
+        "nilai": "88"
+    }
+]
